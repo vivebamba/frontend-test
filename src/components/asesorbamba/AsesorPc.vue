@@ -73,7 +73,7 @@
         min-width: 19rem;
     }
     .img-asesor img{
-        width:100%
+        width:70%
     }
     .titulos-carrusel{
         font-family: 'Montserrat-SemiBold';

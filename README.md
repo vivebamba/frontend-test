@@ -9,9 +9,8 @@ Versión de Npm 6.14.11
 Versión de Bootstrap 5.0.1
 ```
 ## Demo
-```
 Si quieres ver la demo de este proyecto desplegada, puedes visitar  [Demo del proyecto](https://optimistic-babbage-b27515.netlify.app/) 
-```
+
 ## Project setup
 ```
 npm install
