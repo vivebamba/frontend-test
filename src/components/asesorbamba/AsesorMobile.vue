@@ -1,6 +1,6 @@
 <template>
     <div >
-        <carousel :autoplay="false" :items="1"  :nav="false" class=" m-0 w-100 align-items-center d-flex justify-content-around m-0 p-0">
+        <carousel :autoplay="false" :items="1"  :nav="false" class=" w-100 align-items-center d-flex justify-content-around mx-auto p-0">
             
                 <div class="cont-asesor px-0 pt-4 flex-column row mx-3 align-items-center">
                     <div>
@@ -91,7 +91,13 @@ export default {
         z-index:2;
         background: rgba(17, 50, 145, 0.8);
         border-radius: 100%;
-        margin-left:-1rem;
+        
+    }
+    .prev{
+        margin-right:-1rem;
+    }
+    .next{
+        margin-left:-2rem;
     }
     .senal{
         height: 2rem;

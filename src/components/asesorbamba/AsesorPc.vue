@@ -73,7 +73,7 @@
         min-width: 19rem;
     }
     .img-asesor img{
-        width:auto
+        width:100%
     }
     .titulos-carrusel{
         font-family: 'Montserrat-SemiBold';
@@ -109,7 +109,7 @@
     }
     @media only screen and (max-width: 1280px) and (min-width: 900px){
         .cont-asesor{
-            padding-left: 1rem!important;
+
             min-height: 50rem;
             max-height: 50rem;
         }
@@ -119,7 +119,7 @@
     }
     @media only screen and (max-width: 899px) and (min-width: 427px){
         .cont-asesor{
-            padding-left: 1rem!important;
+
             min-height: 40rem;
             max-height: 40rem;
         }
@@ -139,7 +139,7 @@
             min-width: 15rem;
         }
         .cont-asesor{
-            padding-left: 1rem!important;
+
             min-height: 45rem;
             max-height: 45rem;
         }
@@ -149,7 +149,7 @@
     }
     @media only screen and (max-width: 320px) and (max-width: 281px){
         .cont-asesor{
-            padding-left: 1rem!important;
+        
             min-height: 47rem;
             max-height: 47rem;
         }
@@ -157,9 +157,9 @@
             width: 70%!important;
         }
     }
-    @media only screen and (max-width: 280px){
+    @media only screen and (max-width: 326px){
         .cont-asesor{
-            padding-left: 1rem!important;
+   
             min-height: 100%;
             max-height: 100%;
         }
