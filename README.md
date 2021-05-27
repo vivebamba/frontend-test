@@ -1,4 +1,4 @@
-# bamba
+# Prueba de desarrollo frontend para Bamba
 
 ## Project setup
 ```
