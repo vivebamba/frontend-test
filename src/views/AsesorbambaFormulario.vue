@@ -180,6 +180,7 @@ input::placeholder{
 .custom-select:focus{
     box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
 }
+
 .form-fecha{
   padding: 0.8rem;
 
@@ -202,7 +203,7 @@ input::placeholder{
   }
   .marke{
         background: #FFFFFF;
-        padding: .50rem .75rem;
+        padding: 1rem .75rem;
         font-family: 'Montserrat-Light';
     }
   @media only screen and (max-width: 769px) and (max-width: 428px){
@@ -238,4 +239,5 @@ input::placeholder{
       padding: 2rem;
     }
    }
+
 </style>
